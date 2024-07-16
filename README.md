@@ -39,7 +39,7 @@ python train.py --cfg models/MIAYOLO.yaml
 
 ### 1. Pretrained Checkpoints
 You can use our pretrained checkpoints for test process.
-Download pre-trained model and put it in [here](https://pan.baidu.com/s/1e6XtRCF7pIG1L2ECk2joRQ) (code: 97wj).
+Download pre-trained model and put it in [here](https://pan.baidu.com/s/1FdQkh9ugT_CFguvjpJ6J2w) (code: jqan).
 ### 2. Begin to test
 <!--
 ```python
